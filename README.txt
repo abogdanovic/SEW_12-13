@@ -1,2 +1,3 @@
-Nermin Coric 3CHIT/TGM
+Nermin Coric 3CHIT-TGM
+
 
